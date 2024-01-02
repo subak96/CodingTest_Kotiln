@@ -1,5 +1,6 @@
 # CodingTest_Kotiln
 프로그래머스 코딩 테스트
+
 char.isUpperCase()는 이 메서드는 해당 문자가 대문자인지 여부를 반환, 대문자이면 true를 반환하고, 소문자이면 false를 반환합니다.
 val ch: Char = 'A'
 val isUpperCase: Boolean = ch.isUpperCase()
